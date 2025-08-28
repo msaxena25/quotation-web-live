@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/quotation-web-live/static/css/main.98b037d5.css",
-    "main.js": "/quotation-web-live/static/js/main.52017411.js",
+    "main.css": "/quotation-web-live/static/css/main.9a32ec19.css",
+    "main.js": "/quotation-web-live/static/js/main.c9679ad6.js",
     "static/js/239.0fee4455.chunk.js": "/quotation-web-live/static/js/239.0fee4455.chunk.js",
     "static/js/977.cc4f45c5.chunk.js": "/quotation-web-live/static/js/977.cc4f45c5.chunk.js",
     "static/js/455.19bd5a26.chunk.js": "/quotation-web-live/static/js/455.19bd5a26.chunk.js",
@@ -9,15 +9,15 @@
     "static/media/bootstrap-icons.woff?": "/quotation-web-live/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/quotation-web-live/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/quotation-web-live/index.html",
-    "main.98b037d5.css.map": "/quotation-web-live/static/css/main.98b037d5.css.map",
-    "main.52017411.js.map": "/quotation-web-live/static/js/main.52017411.js.map",
+    "main.9a32ec19.css.map": "/quotation-web-live/static/css/main.9a32ec19.css.map",
+    "main.c9679ad6.js.map": "/quotation-web-live/static/js/main.c9679ad6.js.map",
     "239.0fee4455.chunk.js.map": "/quotation-web-live/static/js/239.0fee4455.chunk.js.map",
     "977.cc4f45c5.chunk.js.map": "/quotation-web-live/static/js/977.cc4f45c5.chunk.js.map",
     "455.19bd5a26.chunk.js.map": "/quotation-web-live/static/js/455.19bd5a26.chunk.js.map",
     "453.52652990.chunk.js.map": "/quotation-web-live/static/js/453.52652990.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98b037d5.css",
-    "static/js/main.52017411.js"
+    "static/css/main.9a32ec19.css",
+    "static/js/main.c9679ad6.js"
   ]
 }
