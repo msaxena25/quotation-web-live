@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quotation-web-live/static/css/main.9a32ec19.css",
-    "main.js": "/quotation-web-live/static/js/main.c9679ad6.js",
+    "main.js": "/quotation-web-live/static/js/main.dfe939ed.js",
     "static/js/239.0fee4455.chunk.js": "/quotation-web-live/static/js/239.0fee4455.chunk.js",
     "static/js/977.cc4f45c5.chunk.js": "/quotation-web-live/static/js/977.cc4f45c5.chunk.js",
     "static/js/455.19bd5a26.chunk.js": "/quotation-web-live/static/js/455.19bd5a26.chunk.js",
@@ -10,7 +10,7 @@
     "static/media/bootstrap-icons.woff2?": "/quotation-web-live/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/quotation-web-live/index.html",
     "main.9a32ec19.css.map": "/quotation-web-live/static/css/main.9a32ec19.css.map",
-    "main.c9679ad6.js.map": "/quotation-web-live/static/js/main.c9679ad6.js.map",
+    "main.dfe939ed.js.map": "/quotation-web-live/static/js/main.dfe939ed.js.map",
     "239.0fee4455.chunk.js.map": "/quotation-web-live/static/js/239.0fee4455.chunk.js.map",
     "977.cc4f45c5.chunk.js.map": "/quotation-web-live/static/js/977.cc4f45c5.chunk.js.map",
     "455.19bd5a26.chunk.js.map": "/quotation-web-live/static/js/455.19bd5a26.chunk.js.map",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.9a32ec19.css",
-    "static/js/main.c9679ad6.js"
+    "static/js/main.dfe939ed.js"
   ]
 }
